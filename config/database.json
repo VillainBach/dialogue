@@ -1,7 +1,7 @@
 {
     "1": {
-        "id": "JIMINY",
-        "password": "gis4gertrude",
+        "id": "Jiminy",
+        "password": "Gis4Gertrude",
         "userName": "Homonym, Bryce",
         "mail": {
             "1": {
@@ -10,14 +10,14 @@
                 "body": "Another instance of Dialect 21 leaves several stranded friendlies for potential activation. Follow-up required."
             },
             "2": {
-                "from": "Software",
-                "title": "undefined",
-                "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+                "from": "Gemini",
+                "title": "Follow-up Required",
+                "body": "As suggested in my prior message, your attendance is required. A report is due to Virgo."
             },
-            "a": {
-                "from": "Josephus A. Miller",
-                "title": "Contrato n22",
-                "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+            "3": {
+                "from": "Gemini",
+                "title": "Severance",
+                "body": "You access is restricted. Your retirement plan is processing. Consider this a warning."
             }
         }
     },
