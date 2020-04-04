@@ -1,9 +1,9 @@
 {
     "freenode": {
         "serverAddress": "111.222.3.4",
-        "serverName": "FreeNode",
+        "serverName": "Millennium City Community College",
         "iconName": "world.svg",
-        "terminalID": "freenode",
+        "terminalID": "MCCC",
         "defaultUser": "",
         "randomSeed": true,
 
