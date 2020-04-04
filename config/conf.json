@@ -3,7 +3,7 @@
     "serverAddress": "127.0.0.1",
     "serverName": "Mutable Active - Eyes Only",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "JCode",
     "defaultUser": "anonymous",
     "randomSeed": true
 }
