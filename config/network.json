@@ -1,5 +1,5 @@
 {
-    "freenode": {
+    "Millennium City Community College": {
         "serverAddress": "111.222.3.4",
         "serverName": "Millennium City Community College",
         "iconName": "world.svg",
@@ -13,14 +13,14 @@
 
         "userList": {
             "debug": {
-                "id": "x",
-                "password": "x",
-                "userName": "someoneElse1971",
+                "id": "esprouse",
+                "password": "hailsagan",
+                "userName": "Sprouse, Elaine",
                 "mail": {
                     "1": {
-                        "from": "anon4562314",
-                        "title": "You're at FreeNode!",
-                        "body": "Freenode my boy....  Freenode."
+                        "from": "Bellamy",
+                        "title": "Trouble at the Observatory",
+                        "body": "Elaine, I understand your concerns but if you press this we will lose funding. Drop the issue."
                     }
                 }
             }
