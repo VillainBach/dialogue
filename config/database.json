@@ -1,13 +1,13 @@
 {
     "1": {
-        "id": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox",
+        "id": "Jiminy",
+        "password": "Gertude",
+        "userName": "Homonym, Bryce",
         "mail": {
             "1": {
-                "from": "Traveller",
-                "title": "Do not Open",
-                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                "from": "Gemini",
+                "title": "New agents",
+                "body": "Another instance of Dialect 21 leaves several stranded friendlies for potential activation. Follow-up required."
             },
             "2": {
                 "from": "Software",
