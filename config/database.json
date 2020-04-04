@@ -23,41 +23,69 @@
     },
 
     "2": {
-        "id": "a",
-        "password": "a",
-        "userName": "Mulder, Fox",
+        "id": "Jacko",
+        "password": "liam",
+        "userName": "Havoc, Reginald",
         "mail": {
             "1": {
-                "from": "Traveller",
-                "title": "Do not Open",
-                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-            },
-            "2": {
-                "from": "Software",
-                "title": "undefined",
-                "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
-            },
-            "a": {
-                "from": "Josephus A. Miller",
-                "title": "Contrato n22",
-                "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+                "from": "Gemini",
+                "title": "Welcome",
+                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
             }
         }
     },
 
-    "debug": {
-        "id": "admin",
-        "password": "admin",
-        "userName": "root",
+    "3": {
+        "id": "JayZ",
+        "password": "girlfriend",
+        "userName": "Dunn, Lauren",
         "mail": {
             "1": {
-                "from": "Mike",
-                "title": "wtf are you kidding me?",
-                "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+                "from": "Gemini",
+                "title": "Welcome",
+                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
             }
         }
     },
-
+    
+    "4": {
+        "id": "Jelly",
+        "password": "jeep",
+        "userName": "Jelly",
+        "mail": {
+            "1": {
+                "from": "Gemini",
+                "title": "Welcome",
+                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+            }
+        }
+    },
+    
+    "5": {
+        "id": "Tony",
+        "password": "leg",
+        "userName": "Moran, Tony",
+        "mail": {
+            "1": {
+                "from": "Gemini",
+                "title": "Welcome",
+                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+            }
+        }
+    },
+    
+    "6": {
+        "id": "Buttz",
+        "password": "integrity",
+        "userName": "Buttz, Phillip",
+        "mail": {
+            "1": {
+                "from": "Gemini",
+                "title": "Welcome",
+                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+            }
+        }
+    },
     "nomail": {
         "id": "n",
         "password": "n",
