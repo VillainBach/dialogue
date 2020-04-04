@@ -14,6 +14,23 @@
             "System successfully corrupted!"
         ]
     },
+    
+{
+    "answermachine": {
+        "name": "answermachine",
+        "filetype": "exe",
+        "delayed": true,
+        "message": [
+            "Analyzing system.",
+            "Analyzing system..",
+            "Analyzing system...",
+            "0% complete",
+            "11% complete",
+            "47% complete",
+            "98% complete",
+            "System clear!"
+        ]
+    },
 
     "analyze": {
         "name": "analyze",
