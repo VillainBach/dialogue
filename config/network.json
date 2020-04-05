@@ -2,7 +2,7 @@
     "YOU'RE NOT SUPPOSED TO BE HERE": {
         "serverAddress": "173.934.1.2",
         "serverName": "YOU'RE NOT SUPPOSED TO BE HERE",
-        "iconName": "world.svg",
+        "iconName": "vision.svg",
         "terminalID": "YOU'RE NOT SUPPOSED TO BE HERE",
         "defaultUser": "",
         "randomSeed": true,
