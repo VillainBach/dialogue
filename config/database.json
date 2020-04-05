@@ -43,6 +43,10 @@
                 "from": "Gemini",
                 "title": "Severance",
                 "body": "You access is restricted. Your retirement plan is processing. Consider this a warning."
+            "8": {
+                "from": "Pisces",
+                "title": "Ping",
+                "body": "Offer stands. Telnet 173.934.1.2"
             }
         }
     },
