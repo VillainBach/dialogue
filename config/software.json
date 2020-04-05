@@ -15,19 +15,16 @@
         ]
     },
     
-    "answermachine": {
-        "name": "answermachine",
+    "echo": {
+        "name": "echo",
         "filetype": "exe",
         "delayed": true,
         "message": [
-            "Analyzing system.",
-            "Analyzing system..",
-            "Analyzing system...",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "System clear!"
+            "Echo 0%",
+            "Echo 11%",
+            "Echo 47%",
+            "Echo 98%",
+            "No Answer"
         ]
     },
 
