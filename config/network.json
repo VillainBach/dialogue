@@ -1,9 +1,9 @@
 {
-    "Millennium City Community College": {
-        "serverAddress": "111.222.3.4",
-        "serverName": "Millennium City Community College",
+    "YOU'RE NOT SUPPOSED TO BE HERE": {
+        "serverAddress": "173.934.1.2",
+        "serverName": "YOU'RE NOT SUPPOSED TO BE HERE",
         "iconName": "world.svg",
-        "terminalID": "MCCC",
+        "terminalID": "YOU'RE NOT SUPPOSED TO BE HERE",
         "defaultUser": "",
         "randomSeed": true,
 
