@@ -20,10 +20,10 @@
         "filetype": "exe",
         "delayed": true,
         "message": [
-            "Echo 0%",
-            "Echo 11%",
-            "Echo 47%",
-            "Echo 98%",
+            "Echo. 0%",
+            "Echo.. 11%",
+            "Echo... 47%",
+            "Echo.... 98%",
             "No Answer"
         ]
     },
