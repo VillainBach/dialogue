@@ -8,13 +8,33 @@
                 "from": "Gemini",
                 "title": "New agents",
                 "body": "Another instance of Dialect 21 leaves several stranded friendlies for potential activation. Follow-up required."
-            },
+            },    
             "2": {
+                "from": "Gemini",
+                "title": "Dialect 13",
+                "body": "Former Agent Jebediah's behavior has become no less erratic. I know he is a friend, Jiminy, but something needs to be done. It is a small miracle his severance has not already been requested."
+            },
+            "3": {
+                "from": "Gemini",
+                "title": "Mayor Mann",
+                "body": "Mann has requested insight into the recent strangulations. Say what you will about her, Jiminy, but she hasn't been wrong yet and she knows where the lines are drawn without asking why."
+            },
+            "4": {
+                "from": "Gemini",
+                "title": "Access Denied",
+                "body": "I'm sorry, Jiminy, but your request has been denied again, this time from Virgo herself. I believe it would be in your best interest to drop this lead. She is dead, lay her to rest."
+            },
+            "1": {
+                "from": "Gemini",
+                "title": "Dialect 4",
+                "body": "Sprouse's research has exceeded acceptable limitations. It's time to pull the plug. There does not seem to be a means by which to exploit Dialect 4 without the cost of human life. A powerful tool, to trade one life for another. Not a choice I'm willing to put into the hands of others. Take the normal precautions."
+            },
+            "5": {
                 "from": "Gemini",
                 "title": "Follow-up Required",
                 "body": "As suggested in my prior message, your attendance is required. A report is due to Virgo."
             },
-            "3": {
+            "6": {
                 "from": "Gemini",
                 "title": "Severance",
                 "body": "You access is restricted. Your retirement plan is processing. Consider this a warning."
@@ -43,7 +63,7 @@
             "1": {
                 "from": "Gemini",
                 "title": "Welcome",
-                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+                "body": "Welcome to the system, Agent JayZ. Please wait for activation orders."
             }
         }
     },
@@ -56,7 +76,7 @@
             "1": {
                 "from": "Gemini",
                 "title": "Welcome",
-                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+                "body": "Welcome to the system, Agent Jelly. Please wait for activation orders."
             }
         }
     },
@@ -69,7 +89,7 @@
             "1": {
                 "from": "Gemini",
                 "title": "Welcome",
-                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+                "body": "Welcome to the system, Agent. Please wait for activation orders."
             }
         }
     },
@@ -82,7 +102,7 @@
             "1": {
                 "from": "Gemini",
                 "title": "Welcome",
-                "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+                "body": "Welcome to the system, Agent. Please wait for activation orders."
             }
         }
     },
