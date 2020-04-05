@@ -4,6 +4,11 @@
         "password": "Gis4Gertrude",
         "userName": "Homonym, Bryce",
         "mail": {
+            "0": {
+                "from": "SecAdmin",
+                "title": "Null",
+                "body": "Previous messages will be wiped from the system in (4) hours."
+            },
             "1": {
                 "from": "Gemini",
                 "title": "New agents",
