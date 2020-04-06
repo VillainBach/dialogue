@@ -74,6 +74,10 @@
                 "from": "Gemini",
                 "title": "Welcome",
                 "body": "Welcome to the system, Agent JayZ. Please wait for activation orders."
+            "2": {
+                "from": "SecAdmin",
+                "title": "Password Change",
+                "body": "A system error has required a password change for this account. The new password has been communicated."
             }
         }
     },
