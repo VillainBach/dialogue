@@ -61,6 +61,11 @@
                 "from": "Gemini",
                 "title": "Welcome",
                 "body": "Welcome to the system, Agent Jacko. Please wait for activation orders."
+            },
+            "2": {
+                "from": "Gemini",
+                "title": "Activation Orders: Retire Bryce Homonym",
+                "body": "Homonym has logged into the system and remains within Millennium City. Consider your status ACTIVE. Your orders are to (1) bring Homonym into the custody of the Mutable Response or to (2) bring Homonym's remains into the custody of the Mutable Response. We have narrowed the login area to a three-block radius in the historic district. A patrol of the area is being established. Homonym should be considered armed and dangerous. Virgo has marked Homonym's retirement as high priority and Dialogue's resources are at your disposal. Report directly to me with questions."
             }
         }
     },
@@ -84,6 +89,11 @@
                 "from": "Gemini",
                 "title": "Promotion",
                 "body": "Lauren- Following our brief talk on the phone, I wondered if you would be interested in the physical incorporation of some of The Mutable Response's technological advancements. Though all of our techniques should be considered experimental, many have proven over and again to be quite safe. Recovery time is dependent upon the complexity of the procedure. Some of our basic advancements require only a few hours of your time. Do be in touch as you consider."
+            },
+            "4": {
+                "from": "Gemini",
+                "title": "Activation Orders: Retire Bryce Homonym",
+                "body": "Homonym has logged into the system and remains within Millennium City. Consider your status ACTIVE. Your orders are to (1) bring Homonym into the custody of the Mutable Response or to (2) bring Homonym's remains into the custody of the Mutable Response. We have narrowed the login area to a three-block radius in the historic district. A patrol of the area is being established.  Homonym should be considered armed and dangerous. Virgo has marked Homonym's retirement as high priority and Dialogue's resources are at your disposal. Report directly to me with questions."
             }
         }
     },
@@ -97,6 +107,11 @@
                 "from": "Gemini",
                 "title": "Welcome",
                 "body": "Welcome to the system, Agent Jelly. Please wait for activation orders."
+            },
+            "2": {
+                "from": "Gemini",
+                "title": "Activation Orders: Retire Bryce Homonym",
+                "body": "Homonym has logged into the system and remains within Millennium City. Consider your status ACTIVE. Your orders are to (1) bring Homonym into the custody of the Mutable Response or to (2) bring Homonym's remains into the custody of the Mutable Response. We have narrowed the login area to a three-block radius in the historic district. A patrol of the area is being established. Homonym should be considered armed and dangerous. Virgo has marked Homonym's retirement as high priority and Dialogue's resources are at your disposal. Report directly to me with questions."
             }
         }
     },
@@ -115,6 +130,11 @@
                 "from": "Gemini",
                 "title": "Books",
                 "body": "Tony- You have proven yourself among the more stable agents of J-Cell, a trait that will do you well as you continue with the Mutable Response. I reach out to ask about a book, perhaps multiple books, that Bryce Homonym may have been studying. As your run-in with Elaine Sprouse and Dialect 4 no doubt proved, there is a great deal of power in books. A great deal of peril. If such books exist, it would be important to secure them. We have protocols for studying such things- reading sections without exposing a single agent to the whole. Do be in touch if you have noted any concerns like these. The other agents need not know the information came from you."
+            },
+            "3": {
+                "from": "Gemini",
+                "title": "Activation Orders: Retire Bryce Homonym",
+                "body": "Homonym has logged into the system and remains within Millennium City. Consider your status ACTIVE. Your orders are to (1) bring Homonym into the custody of the Mutable Response or to (2) bring Homonym's remains into the custody of the Mutable Response. We have narrowed the login area to a three-block radius in the historic district. A patrol of the area is being established. Homonym should be considered armed and dangerous. Virgo has marked Homonym's retirement as high priority and Dialogue's resources are at your disposal. Report directly to me with questions."
             }
         }
     },
@@ -128,6 +148,11 @@
                 "from": "Gemini",
                 "title": "Welcome",
                 "body": "Welcome to the system, Agent. Please wait for activation orders."
+            },
+            "2": {
+                "from": "Gemini",
+                "title": "Activation Orders: Retire Bryce Homonym",
+                "body": "Homonym has logged into the system and remains within Millennium City. Consider your status ACTIVE. Your orders are to (1) bring Homonym into the custody of the Mutable Response or to (2) bring Homonym's remains into the custody of the Mutable Response. We have narrowed the login area to a three-block radius in the historic district. A patrol of the area is being established. Homonym should be considered armed and dangerous. Virgo has marked Homonym's retirement as high priority and Dialogue's resources are at your disposal. Report directly to me with questions."
             }
         }
     },
