@@ -110,6 +110,11 @@
                 "from": "Gemini",
                 "title": "Welcome",
                 "body": "Welcome to the system, Agent. Please wait for activation orders."
+            },
+            "2": {
+                "from": "Gemini",
+                "title": "Books",
+                "body": "Tony- You have proven yourself among the more stable agents of J-Cell, a trait that will do you well as you continue with the Mutable Response. I reach out to ask about a book, perhaps multiple books, that Bryce Homonym may have been studying. As your run-in with Elaine Sprouse and Dialect 4 no doubt proved, there is a great deal of power in books. A great deal of peril. If such books exist, it would be important to secure them. We have protocols for studying such things- reading sections without exposing a single agent to the whole. Do be in touch if you have noted any concerns like these. The other agents need not know the information came from you."
             }
         }
     },
